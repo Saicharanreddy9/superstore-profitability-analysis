@@ -1,7 +1,3 @@
-To make your README.md professional and complete, you should structure it so that anyone who visits your GitHub understands what the project is, why you did it, and how they can reproduce your results.
-
-Here is the exact structure you should add to your README.md file:
-
 Superstore Profitability Analysis
 1. Executive Summary
 This project analyzes the profitability of a retail superstore dataset. The primary goal was to identify key factors driving profit loss. By utilizing Exploratory Data Analysis (EDA) and a Linear Regression model, I identified that aggressive discounting and specific regional factors are the primary contributors to financial underperformance.
